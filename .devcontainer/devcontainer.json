@@ -1,0 +1,9 @@
+{
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+    "remoteEnv": {
+        "DEV_CONTAINER_LOCATION": ".devcontainer"
+    },
+    "features": {
+        "ghcr.io/devcontainers/features/azure-cli:1": {}
+    }
+}
